@@ -1,0 +1,24 @@
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-toggler {
+    display: block;
+  }
+}
+
+@media (min-width: 1202px) {
+  .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+}
+.navbar-collapse .collapse .show {
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    flex-basis: auto;
+  }
+}
+@media (min-width: 974px) {
+  .collapse:not(.show) {
+    display: none;
+  }
+}

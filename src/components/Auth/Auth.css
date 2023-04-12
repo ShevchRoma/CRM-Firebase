@@ -1,0 +1,22 @@
+.container-my {
+  max-width: 600px;
+  margin: auto;
+  padding: 50px;
+  border: 1px solid rgb(198, 196, 196);
+  border-radius: 14px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-top: 50px;
+}
+h2 {
+  text-align: center;
+}
+svg {
+  margin: 0 0 0 8%;
+}
+span {
+  width: 50px;
+  font-weight: bold;
+}
+p {
+  font-weight: bold;
+}
